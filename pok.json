@@ -1,0 +1,434 @@
+[{
+  "id": 1,
+  "img":"https://i.kinja-img.com/gawker-media/image/upload/s--uATAeeKN--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/kjkktlfrjbaulitqzcds.png",
+  "name": {
+    "english": "Bulbasaur",
+    "japanese": "フシギダネ",
+    "chinese": "妙蛙种子",
+    "french": "Bulbizarre"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 45,
+    "Attack": 49,
+    "Defense": 49,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 45
+  }
+},
+{
+  "id": 2,
+  "img":"http://1.bp.blogspot.com/-DAcBIfmDR1E/UkwtZbclEwI/AAAAAAAAAHU/NJEMTsYVfB8/s1600/002Ivysaur.jpg",
+  "name": {
+    "english": "Ivysaur",
+    "japanese": "フシギソウ",
+    "chinese": "妙蛙草",
+    "french": "Herbizarre"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 62,
+    "Defense": 63,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 60
+  }
+},
+{
+  "id": 3,
+  "img":"https://assets.rbl.ms/10559141/980x.png",
+  "name": {
+    "english": "Venusaur",
+    "japanese": "フシギバナ",
+    "chinese": "妙蛙花",
+    "french": "Florizarre"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 83,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 80
+  }
+},
+{
+  "id": 4,
+  "img":"https://static.zerochan.net/Charmander.full.1691289.jpg",
+  "name": {
+    "english": "Charmander",
+    "japanese": "ヒトカゲ",
+    "chinese": "小火龙",
+    "french": "Salamèche"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 39,
+    "Attack": 52,
+    "Defense": 43,
+    "Sp. Attack": 60,
+    "Sp. Defense": 50,
+    "Speed": 65
+  }
+},
+{
+  "id": 5,
+  "img":"https://i.pinimg.com/originals/c9/46/47/c9464761f778bd33ca30d0b4a091ccca.jpg",
+  "name": {
+    "english": "Charmeleon",
+    "japanese": "リザード",
+    "chinese": "火恐龙",
+    "french": "Reptincel"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 58,
+    "Attack": 64,
+    "Defense": 58,
+    "Sp. Attack": 80,
+    "Sp. Defense": 65,
+    "Speed": 80
+  }
+},
+{
+  "id": 6,
+  "img":"http://getwallpapers.com/wallpaper/full/4/2/a/130426.jpg",
+  "name": {
+    "english": "Charizard",
+    "japanese": "リザードン",
+    "chinese": "喷火龙",
+    "french": "Dracaufeu"
+  },
+  "type": [
+    "Fire",
+    "Flying"
+  ],
+  "base": {
+    "HP": 78,
+    "Attack": 84,
+    "Defense": 78,
+    "Sp. Attack": 109,
+    "Sp. Defense": 85,
+    "Speed": 100
+  }
+},
+{
+  "id": 7,
+  "img":"https://i.pinimg.com/originals/8d/1e/e2/8d1ee2caeac0e6ad0c9e847ce69fd05a.png",
+  "name": {
+    "english": "Squirtle",
+    "japanese": "ゼニガメ",
+    "chinese": "杰尼龟",
+    "french": "Carapuce"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 44,
+    "Attack": 48,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 64,
+    "Speed": 43
+  }
+},
+{
+  "id": 8,
+  "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/89dbd273-db13-443e-bc54-d960589afd38/d4ugk3h-9c3c3a0c-ce5f-44c3-ac99-c994bccc454c.png/v1/fill/w_900,h_1190,q_75,strp/pkmn__wartortle_by_xeohelios-d4ugk3h.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi84OWRiZDI3My1kYjEzLTQ0M2UtYmM1NC1kOTYwNTg5YWZkMzgvZDR1Z2szaC05YzNjM2EwYy1jZTVmLTQ0YzMtYWM5OS1jOTk0YmNjYzQ1NGMucG5nIiwid2lkdGgiOiI8PTkwMCIsImhlaWdodCI6Ijw9MTE5MCJ9XV19.o3xONawWlAu-lnaaeVwOuM74TNmTvLTS4lWqPdh_7k4",
+  "name": {
+    "english": "Wartortle",
+    "japanese": "カメール",
+    "chinese": "卡咪龟",
+    "french": "Carabaffe"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 59,
+    "Attack": 63,
+    "Defense": 80,
+    "Sp. Attack": 65,
+    "Sp. Defense": 80,
+    "Speed": 58
+  }
+},
+{
+  "id": 9,
+  "img":"https://i.etsystatic.com/9001376/r/il/ba8cd5/657143254/il_fullxfull.657143254_arxe.jpg",
+  "name": {
+    "english": "Blastoise",
+    "japanese": "カメックス",
+    "chinese": "水箭龟",
+    "french": "Tortank"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 79,
+    "Attack": 83,
+    "Defense": 100,
+    "Sp. Attack": 85,
+    "Sp. Defense": 105,
+    "Speed": 78
+  }
+},
+{
+  "id": 10,
+  "img":"https://i.ytimg.com/vi/aS28OFKHQBc/maxresdefault.jpg",
+  "name": {
+    "english": "Caterpie",
+    "japanese": "キャタピー",
+    "chinese": "绿毛虫",
+    "french": "Chenipan"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "HP": 45,
+    "Attack": 30,
+    "Defense": 35,
+    "Sp. Attack": 20,
+    "Sp. Defense": 20,
+    "Speed": 45
+  }
+},
+{
+  "id": 11,
+  "img":"http://www.icanbecreative.com/res/pokemon/metapod_by_soupandbutter-d3c6yjw.jpg",
+  "name": {
+    "english": "Metapod",
+    "japanese": "トランセル",
+    "chinese": "铁甲蛹",
+    "french": "Chrysacier"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 20,
+    "Defense": 55,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 30
+  }
+},
+{
+  "id": 12,
+  "img":"http://pm1.narvii.com/6241/1bcfa3876b239d61f9c58650121cc13717798130_hq.jpg",
+  "name": {
+    "english": "Butterfree",
+    "japanese": "バタフリー",
+    "chinese": "巴大蝶",
+    "french": "Papilusion"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 45,
+    "Defense": 50,
+    "Sp. Attack": 90,
+    "Sp. Defense": 80,
+    "Speed": 70
+  }
+},
+{
+  "id": 13,
+  "img":"http://pm1.narvii.com/6254/e62de9954b57f12c319015aabad70e7cfbe91410_hq.jpg",
+  "name": {
+    "english": "Weedle",
+    "japanese": "ビードル",
+    "chinese": "独角虫",
+    "french": "Aspicot"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 35,
+    "Defense": 30,
+    "Sp. Attack": 20,
+    "Sp. Defense": 20,
+    "Speed": 50
+  }
+},
+{
+  "id": 14,
+  "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/465f1ae3-cbb3-4905-91aa-7d40e409f87a/d3208v5-b8f21f5c-cc28-42a6-9156-ade0e5a44a57.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi80NjVmMWFlMy1jYmIzLTQ5MDUtOTFhYS03ZDQwZTQwOWY4N2EvZDMyMDh2NS1iOGYyMWY1Yy1jYzI4LTQyYTYtOTE1Ni1hZGUwZTVhNDRhNTcuanBnIn1dXX0.phiz_jBT-2xKwSoOlZUa4u7YSwObdRzJSFC5XAzCLIk",
+  "name": {
+    "english": "Kakuna",
+    "japanese": "コクーン",
+    "chinese": "铁壳蛹",
+    "french": "Coconfort"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "HP": 45,
+    "Attack": 25,
+    "Defense": 50,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 35
+  }
+},
+{
+  "id": 15,
+  "img":"https://i.pinimg.com/736x/b1/5e/ca/b15eca543f0c25c7b394aed55e41b6d4.jpg",
+  "name": {
+    "english": "Beedrill",
+    "japanese": "スピアー",
+    "chinese": "大针蜂",
+    "french": "Dardargnan"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 40,
+    "Sp. Attack": 45,
+    "Sp. Defense": 80,
+    "Speed": 75
+  }
+},
+{
+  "id": 16,
+  "img":"https://i.ytimg.com/vi/1qnQQgVswUM/hqdefault.jpg",
+  "name": {
+    "english": "Pidgey",
+    "japanese": "ポッポ",
+    "chinese": "波波",
+    "french": "Roucool"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 40,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 56
+  }
+},
+
+{
+  "id": 18,
+  "img":"https://wallpapercave.com/wp/wp2398602.jpg",
+  "name": {
+    "english": "Pidgeot",
+    "japanese": "ピジョット",
+    "chinese": "大比鸟",
+    "french": "Roucarnage"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 83,
+    "Attack": 80,
+    "Defense": 75,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 101
+  }
+},
+
+{
+  "id": 21,
+  "img":"http://2.bp.blogspot.com/-4FBKsOPQdeg/ThvT6C1PByI/AAAAAAAAAEA/ZS0-gtucIfA/s1600/spearow-fly.jpg",
+  "name": {
+    "english": "Spearow",
+    "japanese": "オニスズメ",
+    "chinese": "烈雀",
+    "french": "Piafabec"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 60,
+    "Defense": 30,
+    "Sp. Attack": 31,
+    "Sp. Defense": 31,
+    "Speed": 70
+  }
+},
+{
+  "id": 22,
+  "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d125df43-37f9-4450-a601-50d3aa7fa501/dacpnvs-25ae8599-b26b-45cd-a0f7-ff3cb27219a8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kMTI1ZGY0My0zN2Y5LTQ0NTAtYTYwMS01MGQzYWE3ZmE1MDEvZGFjcG52cy0yNWFlODU5OS1iMjZiLTQ1Y2QtYTBmNy1mZjNjYjI3MjE5YTgucG5nIn1dXX0.3TrvMIR5pLr4wWX5UHM9noyCQ9oB9Q42ltkgFw0ywVE",
+  "name": {
+    "english": "Fearow",
+    "japanese": "オニドリル",
+    "chinese": "大嘴雀",
+    "french": "Rapasdepic"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 65,
+    "Sp. Attack": 61,
+    "Sp. Defense": 61,
+    "Speed": 100
+  }
+},
+{
+  "id": 23,
+  "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/885a6dec-35b8-456f-a409-43b214729c22/daekawe-cee8a746-6545-4348-8640-299e2985d19f.png",
+  "name": {
+    "english": "Ekans",
+    "japanese": "アーボ",
+    "chinese": "阿柏蛇",
+    "french": "Abo"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 35,
+    "Attack": 60,
+    "Defense": 44,
+    "Sp. Attack": 40,
+    "Sp. Defense": 54,
+    "Speed": 55
+  }
+}]
